@@ -24,7 +24,7 @@ class Weapon:
     def silahBilgi(self):
         print(f"İsim: {self.name}, Hasarı: {self.damage}, Mermi Miktarı: {self.ammo}, Yenileme Süresi: {self.mermidegistirmehizi}")
 
-oyuncu1 = Player(1, "Enes Batur", "Özkara", 20, "B")
+oyuncu1 = Player(1, "Enes Batur", "Sungurtekin", 20, "B")
 oyuncu2 = Player(2, "Alp Doruk", "Şengün", 18, "A")
 
 silah1 = Weapon(1, "RPG", 50, 2, 5)
