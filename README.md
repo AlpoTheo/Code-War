@@ -1,2 +1,2 @@
 # Code-War
-Alp Doruk vs Kürşat Emre
+Alp Doruk vs Enes Batur
